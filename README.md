@@ -41,7 +41,13 @@
         <img src="./assets//profile.jpg" alt="Syed Takmil" style="border-radius:50%;" width="150"/>
         <br/>
     </th>
-    <th align="center">Hi 👋, I'm Syed Takmil<br/>CSE Undergraduate @ CUET</th>
+    <th align="center">
+     
+I'm a Computer Science & Engineering undergraduate at CUET with a passion for building full-stack web applications.
+
+I enjoy transforming ideas into real-world software through clean code, modern technologies, and intuitive user experiences.
+
+My goal is to become a skilled Software Engineer by continuously learning, solving real-world problems, and contributing to impactful products.</th>
   </tr>
 </table>
 
