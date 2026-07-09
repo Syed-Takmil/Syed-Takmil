@@ -1,5 +1,13 @@
+
+
+
+
 <p align="center">
-  <img src="./assets/github-bg.png" width="100%" alt="Banner"/>
+  <img src="./assets//banner.png" width="100%" alt="Banner"/>
+</p>
+
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&duration=1700&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B+I'm+Syed+Takmil++;MERN+Stack+Developer+;CSE+Undergraduate+%40+CUET;React+%E2%80%A2+Next.js+%E2%80%A2+Node.js+%E2%80%A2+Express.js+%E2%80%A2+MongoDB" alt="Typing SVG" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Syed Takmil</h1>
@@ -10,6 +18,30 @@ MERN Stack Developer | CSE Undergraduate @ Chittagong University of Engineering 
 
 <p align="center">
 Building secure, scalable, and user-friendly web applications using the MERN Stack.
+</p>
+
+---
+
+
+
+<p align="center">
+  <a href="mailto:syedtakmil@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
+  <a href="https://github.com/Syed-Takmil">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,js,nodejs,express,mongodb,tailwind,git,github,vscode" />
 </p>
 
 ---
@@ -60,7 +92,7 @@ My goal is to become a skilled Software Engineer by continuously learning, solvi
 
 ## ⚖️ LegalEase
 
-<img src="./assets/legal-ease.png"/>
+<img src="./assets//LegalEase.PNG"/>
 
 A full-stack legal services platform.
 
@@ -85,7 +117,7 @@ A full-stack legal services platform.
 
 ## ⚽ Play4G
 
-<img src="./assets/play4g.png"/>
+<img src="./assets//play4g.PNG"/>
 
 Online Turf Booking Platform.
 
@@ -98,9 +130,9 @@ Online Turf Booking Platform.
 
 ---
 
-## 🐄 KurbaniBazar
+## 🐄 QurbaniHat
 
-<img src="./assets/QurbaniHaat.png"/>
+<img src="./assets//QurbaniHat.PNG"/>
 
 Responsive livestock marketplace.
 
@@ -147,7 +179,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=Syed-Takmil&
 📱 +8801577169309
 
 💼 LinkedIn:
-YOUR_LINKEDIN_LINK
+https://www.linkedin.com/in/syedtakmil/
 
 💻 GitHub:
 https://github.com/Syed-Takmil
