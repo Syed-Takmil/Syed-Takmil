@@ -3,26 +3,19 @@
 
 
 <p align="center">
-  <img src="./assets//banner.png" width="100%" alt="Banner"/>
+  <img src="./assets/banner.png" width="100%" alt="Banner"/>
 </p>
 
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&duration=1700&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B+I'm+Syed+Takmil++;MERN+Stack+Developer+;CSE+Undergraduate+%40+CUET;React+%E2%80%A2+Next.js+%E2%80%A2+Node.js+%E2%80%A2+Express.js+%E2%80%A2+MongoDB" alt="Typing SVG" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Syed Takmil</h1>
 
-<h3 align="center">
-MERN Stack Developer | CSE Undergraduate @ Chittagong University of Engineering & Technology (CUET)
-</h3>
-
-<p align="center">
+<i align="center">
 Building secure, scalable, and user-friendly web applications using the MERN Stack.
-</p>
+</i>
 
 ---
-
-
 
 <p align="center">
   <a href="mailto:syedtakmil@gmail.com">
@@ -33,26 +26,31 @@ Building secure, scalable, and user-friendly web applications using the MERN Sta
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 
-  <a href="YOUR_LINKEDIN_URL">
+  <a href="https://www.linkedin.com/in/syedtakmil/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
 
 ---
 
+## ⚡ Top Skills
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,js,nodejs,express,mongodb,tailwind,git,github,vscode" />
 </p>
 
 ---
 
-# 👨‍💻 About Me
+<p align="center">
+  <img src="./assets/profile.png" width="180" alt="Syed Takmil" style="border-radius:50%;" />
+</p>
 
-I'm a Computer Science & Engineering undergraduate at **CUET** with a passion for building full-stack web applications.
+## 👨‍💻 About Me
 
-I enjoy transforming ideas into real-world software through clean code, modern technologies, and intuitive user experiences.
+I'm a Computer Science & Engineering undergraduate at Chittagong University of Engineering & Technology (CUET) with a passion for building secure and scalable MERN stack applications.
 
-My goal is to become a skilled Software Engineer by continuously learning, solving real-world problems, and contributing to impactful products.
+I enjoy solving real-world problems through clean, maintainable code and continuously expanding my skills in modern web technologies.
+
+I'm currently seeking Software Engineering internship opportunities where I can learn, contribute, and grow as a developer.
 
 ---
 
@@ -92,9 +90,10 @@ My goal is to become a skilled Software Engineer by continuously learning, solvi
 
 ## ⚖️ LegalEase
 
-<img src="./assets//LegalEase.PNG"/>
-
-A full-stack legal services platform.
+<p align="center">
+<img src="./assets/LegalEase.PNG" width="85%" alt="LegalEase"/>
+</p>
+A full-stack legal services platform connecting users with verified lawyers through secure authentication, role-based dashboards, and Stripe-powered payments.
 
 ### Features
 
@@ -117,9 +116,11 @@ A full-stack legal services platform.
 
 ## ⚽ Play4G
 
-<img src="./assets//play4g.PNG"/>
+<p align="center">
+<img src="./assets/play4g.PNG" width="85%" alt="Play4G"/>
+</p>
 
-Online Turf Booking Platform.
+A full-stack sports turf booking platform featuring authentication, facility management, booking workflows, and search & filtering.
 
 ### Features
 
@@ -132,9 +133,11 @@ Online Turf Booking Platform.
 
 ## 🐄 QurbaniHat
 
-<img src="./assets//QurbaniHat.PNG"/>
+<p align="center">
+<img src="./assets/QurbaniHat.PNG" width="85%" alt="QurbaniHat"/>
+</p>
 
-Responsive livestock marketplace.
+A responsive livestock marketplace built with Next.js and Tailwind CSS, designed to provide a clean and intuitive online buying experience.
 
 ### Features
 
@@ -147,17 +150,10 @@ Responsive livestock marketplace.
 # 📊 GitHub Stats
 
 <p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Syed-Takmil&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
 
-<img
-height="180"
-src="https://github-readme-stats.vercel.app/api?username=Syed-Takmil&show_icons=true&theme=tokyonight"/>
-
-<img
-height="180"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Syed-Takmil&layout=compact&theme=tokyonight"/>
-
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Syed-Takmil&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
-
 ---
 
 # 🔥 GitHub Streak
@@ -171,21 +167,16 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=Syed-Takmil&
 ---
 
 # 🌐 Connect With Me
+<p align="center">
 
 📍 Chattogram, Bangladesh
 
 📧 syedtakmil@gmail.com
 
-📱 +8801577169309
+💼 **LinkedIn:** [linkedin.com/in/syedtakmil](https://www.linkedin.com/in/syedtakmil/)
 
-💼 LinkedIn:
-https://www.linkedin.com/in/syedtakmil/
-
-💻 GitHub:
-https://github.com/Syed-Takmil
+</p>
 
 ---
 
-## 💡 Quote
-
-> *"Code. Learn. Build. Repeat."*
+### Thanks for visiting my profile! ⭐
