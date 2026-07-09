@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-<i>Hi 👋 I'm Syed Takmil</i>
+<i><b style="font-size: 35px;">Hi 👋 I'm Syed Takmil</b></i>
 </p>
 
 <p align="center">
