@@ -101,10 +101,15 @@
       <h3 align="center">⚖️ LegalEase</h3>
       <p>A full-stack legal services platform connecting users with verified lawyers through secure authentication, role-based dashboards, and Stripe-powered payments.</p>
       <p><strong>Key Features:</strong> RBAC, Stripe Integration, Lawyer Verification, Hiring Workflow & Dashboards.</p>
-      <table width="100%"><tr><td><img src="https://img.shields.io/badge/-Next.js-333333?logo=next.js&logoColor=white"/></td><td><img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white"/></td><td><img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white"/></td></tr></table>
-      <table width="100%"><tr><td><img src="https://img.shields.io/badge/-Stripe-008cdd?logo=stripe&logoColor=white"/></td><td><img src="https://img.shields.io/badge/-Tailwind-06B6D4?logo=tailwind-css&logoColor=white"/></td></tr></table>
       <p align="center">
-        <a href="https://legal-ease-client-seven.vercel.app/">🔗 Live</a> | 
+        <img src="https://img.shields.io/badge/-Next.js-333333?logo=next.js&logoColor=white"/>
+        <img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white"/>
+        <img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white"/>
+        <img src="https://img.shields.io/badge/-Stripe-008cdd?logo=stripe&logoColor=white"/>
+        <img src="https://img.shields.io/badge/-Tailwind-06B6D4?logo=tailwind-css&logoColor=white"/>
+      </p>
+      <p align="center">
+        <a href="https://legal-ease-client-seven.vercel.app/">🔗 Live Link</a> | 
         <a href="https://github.com/Syed-Takmil/legal-ease-client">💻 Client</a> | 
         <a href="https://github.com/Syed-Takmil/legal-ease-server">⚙️ Server</a>
       </p>
@@ -116,11 +121,15 @@
       <h3 align="center">⚽ Play4G</h3>
       <p>A full-stack sports turf booking platform featuring authentication, facility management, booking workflows, and search & filtering.</p>
       <p><strong>Key Features:</strong> User Authentication, Facility Booking management, Responsive UI, Search & Advanced Filtering.</p>
-      <table width="100%"><tr><td><img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black"/></td><td><img src="https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white"/></td><td><img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white"/></td></tr></table>
-      <table width="100%"><tr><td><img src="https://img.shields.io/badge/-Tailwind-06B6D4?logo=tailwind-css&logoColor=white"/></td></tr></table>
       <p align="center">
-        <a href="https://assignment-09-play4g.vercel.app/">🔗 Live</a> | 
-        <a href="https://github.com/Syed-Takmil/Assignment-09-play4g-">💻 Code</a>
+        <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black"/>
+        <img src="https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white"/>
+        <img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white"/>
+        <img src="https://img.shields.io/badge/-Tailwind-06B6D4?logo=tailwind-css&logoColor=white"/>
+      </p>
+      <p align="center">
+        <a href="https://assignment-09-play4g.vercel.app/">🔗 Live Link</a> | 
+        <a href="https://github.com/Syed-Takmil/Assignment-09-play4g-">💻 Code (Client)</a>
       </p>
     </td>
     <td width="33%" valign="top">
@@ -130,37 +139,15 @@
       <h3 align="center">🐄 QurbaniHat</h3>
       <p>A responsive livestock marketplace built with Next.js and Tailwind CSS, designed to provide a clean and intuitive online buying experience.</p>
       <p><strong>Key Features:</strong> Fully Responsive UI, Modern Product Listings, Dynamic layouts, Clean UX design elements.</p>
-      <table width="100%"><tr><td><img src="https://img.shields.io/badge/-Next.js-333333?logo=next.js&logoColor=white"/></td><td><img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black"/></td><td><img src="https://img.shields.io/badge/-Tailwind-06B6D4?logo=tailwind-css&logoColor=white"/></td></tr></table>
       <p align="center">
-        <a href="https://a-08qurbani-hat.vercel.app/">🔗 Live</a> | 
+        <img src="https://img.shields.io/badge/-Next.js-333333?logo=next.js&logoColor=white"/>
+        <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black"/>
+        <img src="https://img.shields.io/badge/-Tailwind-06B6D4?logo=tailwind-css&logoColor=white"/>
+      </p>
+      <p align="center">
+        <a href="https://a-08qurbani-hat.vercel.app/">🔗 Live Link</a> | 
         <a href="https://github.com/Syed-Takmil/assignment-08">💻 Code</a>
       </p>
-    </td>
-  </tr>
-</table>
-  <tr>
-    <td width="33%">
-    <img src="./assets/LegalEase.PNG" width="85%" alt="LegalEase"/>
-      <h3 align="center">⚖️ LegalEase</h3>
-      <p>A full-stack legal services platform connecting users with verified lawyers through secure authentication, role-based dashboards, and Stripe-powered payments.</p>
-       <table width="100%"><tr><td><img src="https://img.shields.io/badge/-Next.js-333333?logo=next.js&logoColor=white"/></td><td><img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white"/></td><td><img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white"/></td></tr></table>
-        <table width="100%"><tr><td><img src="https://img.shields.io/badge/-Stripe-008cdd?logo=stripe&logoColor=white"/></td><td><img src="https://img.shields.io/badge/-Tailwind-06B6D4?logo=tailwind-css&logoColor=white"/></td></tr></table>
-      🔗 Live Link | 🔗 Code
-    </td>
-    <td width="33%">
-      <img src="https://i.ibb.co/K2K7xYn/play4g.png" alt="Play4G"/>
-       <h3 align="center">⚽ Play4G</h3>
-      <p>A full-stack sports turf booking platform featuring authentication, facility management, booking workflows, and search & filtering.</p>
-       <table width="100%"><tr><td><img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black"/></td><td><img src="https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white"/></td><td><img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white"/></td></tr></table>
-        <table width="100%"><tr><td><img src="https://img.shields.io/badge/-Tailwind-06B6D4?logo=tailwind-css&logoColor=white"/></td></tr></table>
-      🔗 Live | 🔗 Code
-    </td>
-    <td width="33%">
-      <img src="https://i.ibb.co/SrbT0fB/Qurbani-Hat.png" alt="QurbaniHat"/>
-       <h3 align="center">🐄 QurbaniHat</h3>
-      <p>A responsive livestock marketplace built with Next.js and Tailwind CSS, designed to provide a clean and intuitive online buying experience.</p>
-      <table width="100%"><tr><td><img src="https://img.shields.io/badge/-Next.js-333333?logo=next.js&logoColor=white"/></td><td><img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black"/></td><td><img src="https://img.shields.io/badge/-Tailwind-06B6D4?logo=tailwind-css&logoColor=white"/></td></tr></table>
-       🔗 Live | 🔗 Code
     </td>
   </tr>
 </table>
