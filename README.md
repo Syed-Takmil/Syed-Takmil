@@ -181,7 +181,7 @@ My goal is to become a skilled Software Engineer by continuously learning, solvi
 
 📍 Chattogram, Bangladesh
 
-📧 syedtakmil@gmail.com
+![alt text](image.png)Gmail: syedtakmil@gmail.com
 
 💼 **LinkedIn:** [linkedin.com/in/syedtakmil](https://www.linkedin.com/in/syedtakmil/)
 
