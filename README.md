@@ -128,7 +128,7 @@ My goal is to become a skilled Software Engineer by continuously learning, solvi
       <p>A full-stack sports turf booking platform featuring authentication, facility management, booking workflows, and search & filtering.</p>
       <p><strong>Key Features:</strong> User Authentication, Facility Booking management, Responsive UI, Search & Advanced Filtering.</p>
       <p align="center">
-        <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black"/>
+        <img src="https://img.shields.io/badge/-Next.js-333333?logo=next.js&logoColor=black"/>
         <img src="https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white"/>
         <img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white"/>
         <img src="https://img.shields.io/badge/-Tailwind-06B6D4?logo=tailwind-css&logoColor=white"/>
@@ -147,7 +147,6 @@ My goal is to become a skilled Software Engineer by continuously learning, solvi
       <p><strong>Key Features:</strong> Fully Responsive UI, Modern Product Listings, Dynamic layouts, Clean UX design elements.</p>
       <p align="center">
         <img src="https://img.shields.io/badge/-Next.js-333333?logo=next.js&logoColor=white"/>
-        <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black"/>
         <img src="https://img.shields.io/badge/-Tailwind-06B6D4?logo=tailwind-css&logoColor=white"/>
       </p>
       <p align="center">
