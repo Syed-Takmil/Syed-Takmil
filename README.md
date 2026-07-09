@@ -38,7 +38,7 @@
 <table align="center">
   <tr>
     <th rowspan="2" align="center" style="border: 0px solid transparent; width: 15%">
-        <img src="https://i.ibb.co/2Z58w7W/profile.jpg" alt="Syed Takmil" style="border-radius:50%;" width="150"/>
+        <img src="./assets//profile.jpg" alt="Syed Takmil" style="border-radius:50%;" width="150"/>
         <br/>
     </th>
     <th align="center">Hi 👋, I'm Syed Takmil<br/>CSE Undergraduate @ CUET</th>
