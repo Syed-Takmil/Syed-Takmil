@@ -5,7 +5,7 @@
   <img src="./assets/banner.png" width="100%" alt="Banner"/>
 </p>
 <p align="center">
- # Hi 👋 I'm Syed Takmil
+ <b>Hi 👋 I'm Syed Takmil</b> 
 </p>
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&duration=1700&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=+MERN+Stack+Developer+;CSE+Undergraduate+%40+CUET;React+%E2%80%A2+Next.js+%E2%80%A2+Node.js+%E2%80%A2+Express.js+%E2%80%A2+MongoDB" alt="Typing SVG" />
