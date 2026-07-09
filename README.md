@@ -1,117 +1,159 @@
-<!-- Banner -->
 <p align="center">
-  <img src="YOUR_BANNER_LINK_HERE" alt="Banner" width="100%" />
+  <img src="./assets/banner.png" width="100%" alt="Banner"/>
 </p>
 
-# Hi 👋, I'm Syed Takmil
+<h1 align="center">Hi 👋, I'm Syed Takmil</h1>
 
-### MERN Stack Developer | CSE Undergraduate @ Chittagong University of Engineering & Technology (CUET)
+<h3 align="center">
+MERN Stack Developer | CSE Undergraduate @ Chittagong University of Engineering & Technology (CUET)
+</h3>
 
----
-
-## 👨‍💻 About Me
-
-I'm a Computer Science & Engineering undergraduate at CUET with a strong interest in full-stack web development.
-
-I enjoy building secure, scalable, and user-friendly web applications using the MERN stack while continuously improving my software engineering and problem-solving skills.
-
-I love turning ideas into real-world applications and learning modern technologies through hands-on projects.
+<p align="center">
+Building secure, scalable, and user-friendly web applications using the MERN Stack.
+</p>
 
 ---
 
-## 🚀 Current Activities
+# 👨‍💻 About Me
 
-- 🔭 Building full-stack MERN applications
-- 🌱 Learning advanced backend architecture
-- 💳 Exploring secure payment integration with Stripe
+I'm a Computer Science & Engineering undergraduate at **CUET** with a passion for building full-stack web applications.
+
+I enjoy transforming ideas into real-world software through clean code, modern technologies, and intuitive user experiences.
+
+My goal is to become a skilled Software Engineer by continuously learning, solving real-world problems, and contributing to impactful products.
+
+---
+
+# 🚀 Current Activities
+
+- 🔭 Currently building full-stack MERN applications
+- 🌱 Exploring advanced backend architecture
+- 💳 Learning secure payment integration using Stripe
 - 📚 Practicing Data Structures & Algorithms
 - 🤝 Looking for Software Engineering Internship opportunities
 
 ---
 
-## 💻 Tech Stack
+# 💻 Tech Stack
 
 ### Frontend
 
-React • Next.js • JavaScript • HTML5 • CSS3 • Tailwind CSS
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,js,html,css,tailwind"/>
+</p>
 
 ### Backend
 
-Node.js • Express.js • MongoDB • REST APIs
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb"/>
+</p>
 
 ### Tools
 
-Git • GitHub • VS Code • Postman • Figma
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma"/>
+</p>
 
 ---
 
-## ⭐ Featured Projects
+# ⭐ Featured Projects
 
-### ⚖️ LegalEase
+## ⚖️ LegalEase
 
-A full-stack legal services platform featuring
+<img src="./assets/legalease.png"/>
 
-- Role-Based Access Control
-- Stripe Payments
-- Authentication
-- Lawyer Hiring Workflow
-- Transaction History
-- Dashboards
+A full-stack legal services platform.
+
+### Features
+
+- ✅ Role-Based Access Control
+- ✅ Authentication & Authorization
+- ✅ Stripe Payment Integration
+- ✅ Lawyer Verification
+- ✅ Hiring Workflow
+- ✅ Transaction History
+- ✅ Dashboards
+- ✅ Comment System
+
+🔗 Live: https://legal-ease-client-seven.vercel.app/
+
+🔗 Client: https://github.com/Syed-Takmil/legal-ease-client
+
+🔗 Server: https://github.com/Syed-Takmil/legal-ease-server
 
 ---
 
-### ⚽ Play4G
+## ⚽ Play4G
 
-Online Turf Booking Platform
+<img src="./assets/play4g.png"/>
 
-- Authentication
+Online Turf Booking Platform.
+
+### Features
+
+- User Authentication
 - Facility Booking
 - Search & Filtering
 - Responsive Design
 
 ---
 
-### 🐄 KurbaniBazar
+## 🐄 KurbaniBazar
 
-Responsive Livestock Marketplace
+<img src="./assets/kurbanibazar.png"/>
 
-- Modern UI
-- Responsive Design
+Responsive livestock marketplace.
+
+### Features
+
+- Responsive UI
 - Product Listings
+- Modern Design
 
 ---
 
-## 📫 Contact
+# 📊 GitHub Stats
 
-📧 Email:
-syedtakmil@gmail.com
+<p align="center">
 
-📱 Phone:
-+8801577169309
+<img
+height="180"
+src="https://github-readme-stats.vercel.app/api?username=Syed-Takmil&show_icons=true&theme=tokyonight"/>
 
-📍 Location:
-Chattogram, Bangladesh
+<img
+height="180"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=Syed-Takmil&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=Syed-Takmil&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+📍 Chattogram, Bangladesh
+
+📧 syedtakmil@gmail.com
+
+📱 +8801577169309
 
 💼 LinkedIn:
-(Add later)
+YOUR_LINKEDIN_LINK
 
-🌐 Portfolio:
-(Add later)
-
----
-
-## 📊 GitHub Stats
-
-(Add GitHub Readme Stats here)
+💻 GitHub:
+https://github.com/Syed-Takmil
 
 ---
 
-## 🔥 Streak Stats
+## 💡 Quote
 
-(Add Streak Stats here)
-
----
-
-## 💻 Most Used Languages
-
-(Add Top Languages card here)
+> *"Code. Learn. Build. Repeat."*
