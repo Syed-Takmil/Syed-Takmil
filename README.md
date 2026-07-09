@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/banner.png" width="100%" alt="Banner"/>
+  <img src="./assets/github-bg.png" width="100%" alt="Banner"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Syed Takmil</h1>
@@ -60,7 +60,7 @@ My goal is to become a skilled Software Engineer by continuously learning, solvi
 
 ## ⚖️ LegalEase
 
-<img src="./assets/legalease.png"/>
+<img src="./assets/legal-ease.png"/>
 
 A full-stack legal services platform.
 
@@ -100,7 +100,7 @@ Online Turf Booking Platform.
 
 ## 🐄 KurbaniBazar
 
-<img src="./assets/kurbanibazar.png"/>
+<img src="./assets/QurbaniHaat.png"/>
 
 Responsive livestock marketplace.
 
